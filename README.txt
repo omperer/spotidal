@@ -1,4 +1,4 @@
-in order to Transfer your Spotify plalist into your tidal Account, do as follows:
+in order to Transfer your Spotify playlist into your tidal Account, do as follows:
 
 1. open www.exportify.net (Hyperlink in spotidal Folder) and sign into your Spotify Account.
 2. after logging in, you might Need to press "get started" on exportify.net. all your Playlists should load - if not, reload the page.
